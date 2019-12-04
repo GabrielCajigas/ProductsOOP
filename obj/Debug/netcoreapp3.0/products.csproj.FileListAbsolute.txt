@@ -1,0 +1,11 @@
+/Users/gabrielcajigas/Desktop/products/bin/Debug/netcoreapp3.0/products
+/Users/gabrielcajigas/Desktop/products/bin/Debug/netcoreapp3.0/products.deps.json
+/Users/gabrielcajigas/Desktop/products/bin/Debug/netcoreapp3.0/products.runtimeconfig.json
+/Users/gabrielcajigas/Desktop/products/bin/Debug/netcoreapp3.0/products.runtimeconfig.dev.json
+/Users/gabrielcajigas/Desktop/products/bin/Debug/netcoreapp3.0/products.dll
+/Users/gabrielcajigas/Desktop/products/bin/Debug/netcoreapp3.0/products.pdb
+/Users/gabrielcajigas/Desktop/products/obj/Debug/netcoreapp3.0/products.csprojAssemblyReference.cache
+/Users/gabrielcajigas/Desktop/products/obj/Debug/netcoreapp3.0/products.AssemblyInfoInputs.cache
+/Users/gabrielcajigas/Desktop/products/obj/Debug/netcoreapp3.0/products.AssemblyInfo.cs
+/Users/gabrielcajigas/Desktop/products/obj/Debug/netcoreapp3.0/products.dll
+/Users/gabrielcajigas/Desktop/products/obj/Debug/netcoreapp3.0/products.pdb
